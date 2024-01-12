@@ -1,4 +1,4 @@
-# Examples and Solved Exercises for Robert Lafore's book "Object oriented programming in C++"
+# Examples and Solved Exercises for Robert Lafore's book "Object oriented programming in C++".
 
 ---
 
