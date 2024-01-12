@@ -6,7 +6,7 @@ Please, **notice** this book uses `c++98`. Therefore you should to use corrent c
 
 ---
 
-Solved Exercises' table
+* Solved Exercises' table
 
 | Chapter's number | Ex. link | Ex. link | Ex. link | Ex. link | Ex. link | Ex. link | Ex. link | Ex. link | Ex. link | Ex. link | Ex. link | Ex. link |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
