@@ -2,7 +2,7 @@
 
 ---
 
-Please, **notice** this book uses `c++98`. Therefore you should to use a corrent compiler.
+Please, **notice** this book uses `c++98`. Therefore you should use a corrent compiler.
 
 ---
 
