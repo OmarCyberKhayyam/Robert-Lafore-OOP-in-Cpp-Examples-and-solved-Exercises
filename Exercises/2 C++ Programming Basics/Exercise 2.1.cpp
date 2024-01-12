@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
     float gallons;
-	cout << "Please, type a quantity on the gallons: ";
+    cout << "Please, type a quantity on the gallons: ";
     cin >> gallons;
     float equivialent = gallons / 7.481;
     cout << gallons << " gallons are " << equivialent << " in cubic feet ";
