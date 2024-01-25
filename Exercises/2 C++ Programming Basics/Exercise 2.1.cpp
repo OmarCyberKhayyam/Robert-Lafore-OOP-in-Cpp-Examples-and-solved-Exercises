@@ -14,6 +14,6 @@ int main()
     cin >> gallons;
     float equivialent = gallons / 7.481;
     cout << gallons << " gallons are " << equivialent << " in cubic feet ";
-
-	return 0;
+	
+    return 0;
 }
