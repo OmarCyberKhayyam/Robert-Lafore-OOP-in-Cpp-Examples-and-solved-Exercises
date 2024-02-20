@@ -1,5 +1,5 @@
 <h1 align="center">Examples and Solved Exercises for Robert Lafore's book "Object oriented programming in C++".</h1>
-<h4 align="center">Please, **notice** this book uses `c++98`. Therefore you should use a corrent compiler.</h3>
+<he align="center">Please, **notice** this book uses `c++98`. Therefore you should use a corrent compiler.</h3>
 <hr>
 <h3 align="center">Solved Exercises' table</h3>
 <table align="center">
