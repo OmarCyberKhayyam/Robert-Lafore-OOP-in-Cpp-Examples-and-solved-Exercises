@@ -9,10 +9,14 @@
     <tr>
         <td align="center">2</td>
         <td>
-         <a href="/Exercises/2%20C%2B%2B%20Programming%20Basics/Exercise%202.1.cpp">2.1</a>  
+            <a href="/Exercises/2%20C%2B%2B%20Programming%20Basics/Exercise%202.1.cpp">2.1</a>  
         </td>
-        <td>2.2</td>
-        <td>2.3</td>
+        <td>
+            <a href="/Exercises/2%20C%2B%2B%20Programming%20Basics/Exercise%202.2.cpp">2.2</a>
+        </td>
+        <td>
+            <a href="/Exercises/2%20C%2B%2B%20Programming%20Basics/Exercise%202.3.cpp">2.3</a>
+        </td>
         <td>2.4</td>
         <td>2.5</td>
         <td>2.6</td>
